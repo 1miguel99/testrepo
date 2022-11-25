@@ -1,1 +1,3 @@
-# testrepo
+# testrepodf file 
+recueprado  foto
+defectos
